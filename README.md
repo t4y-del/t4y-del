@@ -1,7 +1,5 @@
-<h1 align="center">A passionate backend developer from Argentina</h1>
+<h1 align="center">A passionate Cybersecurity and Software Development from Argentina</h1>
 
-<h3>Passionate about cybersecurity and software development
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t4y-del&label=Profile%20views&color=0e75b6&style=flat" alt="t4y-del" /> </p>
 
