@@ -1,4 +1,4 @@
-<h1 align="center">A passionate Cybersecurity and Software Development from Argentina</h1>
+<h1 align="center">A passionate Data Analyst and Cybersecurity from Argentina</h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t4y-del&label=Profile%20views&color=0e75b6&style=flat" alt="t4y-del" /> </p>
